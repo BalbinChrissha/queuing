@@ -1,0 +1,40 @@
+
+
+
+
+body {
+    font-family: 'Poppins';
+    width: 100%;
+    height: auto;
+    background-image: url('../images/pic1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+.logo img{
+    margin-top: 5%;
+    height: 200px;
+    width: 350;
+}
+
+div{
+    color: black;
+}
+
+button{
+    border-radius: 10px;
+}
+
+#window_service {
+    border: 1px solid #c0bdbd;
+    padding: 20px;
+    box-shadow: 5px 10px #c0bdbd;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+#window {
+    font-size: 35px;
+    color: #3579c7;
+}
